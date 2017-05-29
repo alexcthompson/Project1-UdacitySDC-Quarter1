@@ -1,0 +1,10 @@
+# Untracked directories
+
+test_videos_output/*
+test_videos/*
+examples/*
+
+# Untracked files
+
+*.DS_Store
+*.pyc
